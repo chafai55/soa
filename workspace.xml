@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="unnamed" />
-    </artifacts-to-build>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9400a857-c6a2-4179-9f4b-7bff6eee4329" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SOA-Training/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SOA-Training/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d59d7647-be01-49da-bbbc-ea50605c2c2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SOA-Training" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -29,50 +27,30 @@
     "accountId": "fd4dc595-722e-467a-99af-3d10f6124409"
   }
 }]]></component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
+  "associatedIndex": 0,
   "fromUser": false
 }]]></component>
-  <component name="ProjectId" id="3L6HMpGJVu7S6Fnp4xXzZFZPR8G" />
+  <component name="ProjectId" id="3L6J6IN9ritzIUt4q8bjqo5WXws" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Tomcat Server.Tomcat 9.0.123.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "workshop-graphQL",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mouha/Desktop/SOA",
+    "last_opened_file_path": "C:/Users/Mouha/Desktop/SOA/SOA-Training/GraphQL",
     "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunDashboard">
-    <option name="configurationStatuses">
-      <map>
-        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
-          <value>
-            <map>
-              <entry key="Tomcat 9.0.123" value="STOPPED" />
-            </map>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.123" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.123" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -84,7 +62,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="5d030c6f-3eff-4010-87af-42f92cb9f565" />
+        <option name="BASE_DIRECTORY_NAME" value="9555bcd9-4d47-4175-b572-06c093bc5a70" />
         <option name="HTTP_PORT" value="8083" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
@@ -93,7 +71,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="55019" />
+        <option name="DEBUG_PORT" value="42071" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -173,15 +151,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9400a857-c6a2-4179-9f4b-7bff6eee4329" name="Changes" comment="" />
-      <created>1792767552269</created>
+      <changelist id="d59d7647-be01-49da-bbbc-ea50605c2c2e" name="Changes" comment="" />
+      <created>1792768407270</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1792767552269</updated>
+      <updated>1792768407270</updated>
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
